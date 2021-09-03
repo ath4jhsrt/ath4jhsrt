@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ath4jhsrt
+- 👀 I’m interested in using github to host code
+- 🌱 I’m currently learning how to use github to host code.
+- 📫 How to reach me github
